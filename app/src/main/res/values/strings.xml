@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">bmw-first-submission</string>
     <string name="about_me">About Me</string>
+    <string name="share">Share</string>
+    <string name="name_profile">Muhammad Atsal Rizandri</string>
+    <string name="email_profile">atsalrizandrii@gmail.com</string>
 </resources>
